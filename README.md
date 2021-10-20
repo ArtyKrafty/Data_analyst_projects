@@ -17,3 +17,4 @@ ________________________________________________________________________________
 | -------------------- | :--------------------- |:---------------------------|
 | [01. Аналитика в авиакомпании](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/data_extraction_and_and_avia)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Pandas, numpy, Seaborn, Folium, исследовательский анализ данных|
 | [02. Анализ бизнес показателей сервиса Афиша](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/afisha_analys)|Выявить убыточные источника траффика|Когортный анализ, анализ пользовательской сессии, ROMI, DAU, MAU, WAU. Pandas, seaborn, numpy|
+| [03. Принятие решений в бизнесе на основе данных](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/e_comm_AB)|Приоритизировать гипотезы, А/В тестирование|А/В тестирование, статистические тесты. Pandas, seaborn, numpy, stats|
