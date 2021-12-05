@@ -20,5 +20,7 @@ ________________________________________________________________________________
 | [03. Принятие решений в бизнесе на основе данных](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/e_comm_AB)|Приоритизировать гипотезы, А/В тестирование|А/В тестирование, статистические тесты. Pandas, seaborn, numpy, stats|
 | [04. Рынок заведений общественного питания Москвы](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/catering_proj)|Исследовать различные форматы точек общественного питания|Pandas, seaborn, numpy, презентация, geoPandas, geocode|
 | [05. Исследование поведения пользователей приложения](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB)|Изучить воронку продаж. Проанализировать результаты ААВ теста|Pandas, seaborn, numpy, stats, datetime, Plotly|
+| [06. Автоматизация и подготовка dashboards](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/dashboards)|автоматизировать загрузку данных в БД, построить dashboard|Pandas, cron, Tableu|
+
 
 
