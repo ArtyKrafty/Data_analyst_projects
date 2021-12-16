@@ -21,6 +21,6 @@ ________________________________________________________________________________
 | [04. Рынок заведений общественного питания Москвы](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/catering_proj)|Исследовать различные форматы точек общественного питания|Pandas, seaborn, numpy, презентация, geoPandas, geocode|
 | [05. Исследование поведения пользователей приложения](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB)|Изучить воронку продаж. Проанализировать результаты ААВ теста|Pandas, seaborn, numpy, stats, datetime, Plotly|
 | [06. Автоматизация и подготовка dashboards](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/%20dashboards)|автоматизировать загрузку данных в БД, построить dashboard|Pandas, cron, Tableu|
-| [07. Прогнозирование оттока клиентов фитнес-центра](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/fitness)|Кластеризация, машинное обучение|Pandas, sklearn, SHAP, numpy, Pandas|
+| [07. Прогнозирование оттока клиентов фитнес-центра](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/fittness)|Кластеризация, машинное обучение|Pandas, sklearn, SHAP, numpy, Pandas|
 
 
