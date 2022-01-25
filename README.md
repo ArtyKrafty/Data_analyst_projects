@@ -22,5 +22,7 @@ ________________________________________________________________________________
 | [05. Исследование поведения пользователей приложения](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB)|Изучить воронку продаж. Проанализировать результаты ААВ теста|Pandas, seaborn, numpy, stats, datetime, Plotly|
 | [06. Автоматизация и подготовка dashboards](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/%20dashboards)|автоматизировать загрузку данных в БД, построить dashboard|Pandas, cron, Tableu|
 | [07. Прогнозирование оттока клиентов фитнес-центра](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/fittness)|Кластеризация, машинное обучение|Pandas, sklearn, SHAP, numpy, Pandas|
+| [08. Телеком. Поиск клиента с неоптимальными тарифами](https://github.com/ArtyKrafty/Data_analyst_projects/tree/main/telecomm_optimization)|Исследовательский анализ данных. Статистический анализ данных. Поиск закономерностей и разработка методов оптимизации|Pandas, numpy, stats, sklearn|
+
 
 
